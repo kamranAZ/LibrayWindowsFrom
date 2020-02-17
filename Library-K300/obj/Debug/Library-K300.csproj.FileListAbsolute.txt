@@ -15,3 +15,20 @@ C:\Users\Elxan\source\repos\Library-K300\Library-K300\bin\Debug\EntityFramework.
 C:\Users\Elxan\source\repos\Library-K300\Library-K300\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Elxan\source\repos\Library-K300\Library-K300\obj\Debug\Library-K300.csproj.CopyComplete
 C:\Users\Elxan\source\repos\Library-K300\Library-K300\obj\Debug\Library_K300.BooksForm.resources
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\bin\Debug\Library-K300.exe.config
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\bin\Debug\Library-K300.exe
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\bin\Debug\Library-K300.pdb
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\bin\Debug\EntityFramework.dll
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\bin\Debug\EntityFramework.xml
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\obj\Debug\Library-K300.csprojAssemblyReference.cache
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\obj\Debug\Library_K300.AddReaders.resources
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\obj\Debug\Library_K300.BooksForm.resources
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\obj\Debug\Library_K300.Form1.resources
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\obj\Debug\Library_K300.Properties.Resources.resources
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\obj\Debug\Library_K300.ShowReaders.resources
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\obj\Debug\Library-K300.csproj.GenerateResource.cache
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\obj\Debug\Library-K300.csproj.CopyComplete
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\obj\Debug\Library-K300.exe
+C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\obj\Debug\Library-K300.pdb

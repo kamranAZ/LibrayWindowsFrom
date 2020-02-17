@@ -42,12 +42,14 @@
             // menuStrip1
             // 
             this.menuStrip1.BackColor = System.Drawing.Color.DarkBlue;
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(24, 24);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mainToolStripMenuItem,
             this.addToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(848, 29);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(9, 3, 0, 3);
+            this.menuStrip1.Size = new System.Drawing.Size(1272, 42);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -56,7 +58,7 @@
             this.mainToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.mainToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.mainToolStripMenuItem.Name = "mainToolStripMenuItem";
-            this.mainToolStripMenuItem.Size = new System.Drawing.Size(57, 25);
+            this.mainToolStripMenuItem.Size = new System.Drawing.Size(85, 36);
             this.mainToolStripMenuItem.Text = "Main";
             this.mainToolStripMenuItem.Click += new System.EventHandler(this.mainToolStripMenuItem_Click);
             // 
@@ -69,46 +71,46 @@
             this.addToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.addToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.addToolStripMenuItem.Name = "addToolStripMenuItem";
-            this.addToolStripMenuItem.Size = new System.Drawing.Size(50, 25);
+            this.addToolStripMenuItem.Size = new System.Drawing.Size(74, 36);
             this.addToolStripMenuItem.Text = "Add";
             // 
             // readersToolStripMenuItem
             // 
             this.readersToolStripMenuItem.Name = "readersToolStripMenuItem";
-            this.readersToolStripMenuItem.Size = new System.Drawing.Size(180, 26);
+            this.readersToolStripMenuItem.Size = new System.Drawing.Size(203, 40);
             this.readersToolStripMenuItem.Text = "Readers";
             this.readersToolStripMenuItem.Click += new System.EventHandler(this.readersToolStripMenuItem_Click);
             // 
             // authorsToolStripMenuItem
             // 
             this.authorsToolStripMenuItem.Name = "authorsToolStripMenuItem";
-            this.authorsToolStripMenuItem.Size = new System.Drawing.Size(180, 26);
+            this.authorsToolStripMenuItem.Size = new System.Drawing.Size(203, 40);
             this.authorsToolStripMenuItem.Text = "Authors";
             // 
             // booksToolStripMenuItem
             // 
             this.booksToolStripMenuItem.Name = "booksToolStripMenuItem";
-            this.booksToolStripMenuItem.Size = new System.Drawing.Size(180, 26);
+            this.booksToolStripMenuItem.Size = new System.Drawing.Size(203, 40);
             this.booksToolStripMenuItem.Text = "Books";
             this.booksToolStripMenuItem.Click += new System.EventHandler(this.booksToolStripMenuItem_Click);
             // 
             // pcMain
             // 
-            this.pcMain.Location = new System.Drawing.Point(300, 111);
+            this.pcMain.Location = new System.Drawing.Point(423, 226);
             this.pcMain.Name = "pcMain";
-            this.pcMain.Size = new System.Drawing.Size(323, 302);
-            this.pcMain.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pcMain.Size = new System.Drawing.Size(456, 342);
             this.pcMain.TabIndex = 1;
             this.pcMain.TabStop = false;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(848, 485);
+            this.ClientSize = new System.Drawing.Size(1272, 746);
             this.Controls.Add(this.pcMain);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.Text = "Form1";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;

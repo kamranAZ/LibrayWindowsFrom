@@ -19,7 +19,7 @@ namespace Library_K300
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            pcMain.Image = new Bitmap(@"C:\Users\Elxan\source\repos\Library-K300\Library-K300\Image\lib.png");
+            pcMain.Image = new Bitmap(@"C:\Users\Kamran\Desktop\SQL & C#\K300-Library-01.08.2020\Library-K300\Image");
             pcMain.Location = new Point((this.ClientSize.Width-pcMain.Size.Width)/2,
                 (this.ClientSize.Height - pcMain.Size.Height) / 2);
         }
